@@ -1,6 +1,6 @@
 <h1 align="center">LinCode Hackathon Submission</h1>
 
-## Challenge-2
+## Challenge-2 - TEAM INVAR
 
 ## Is My Label Correct?
 
