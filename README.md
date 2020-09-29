@@ -1,4 +1,5 @@
 <h1 align="center">LinCode Hackathon Submission</h1>
+
 ## Challenge-2
 
 ## Is My Label Correct?
@@ -13,3 +14,21 @@ Create an OCR system which works on major soft drink brands pet bottles/cans and
 - Nutritional Facts
 - Quantity
 - Caffeine present or not.
+
+## Installation :
+
+1. Clone the repo
+```
+$ git clone https://github.com/dhrubajyoti89/lincode-us.git
+```
+
+2. Change your directory to the cloned repo and create a Python virtual environment named 'test'
+```
+$ mkvirtualenv test
+```
+
+3. Now, run the following command in your Terminal/Command Prompt to install the libraries required
+```
+$ pip3 install -r requirements.txt
+```
+
