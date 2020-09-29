@@ -1,5 +1,6 @@
 <h1 align="center">LinCode Hackathon Submission</h1>
 ## Challenge-2
+
 ## Is My Label Correct?
 
 One of the challenges most manufacturers face while packaging their products is ensuring all relevant information is available on the labels.
