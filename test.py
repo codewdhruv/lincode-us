@@ -1,3 +1,5 @@
+#submission for lincode-us hackathon 
+
 import cv2
 import numpy as np 
 import matplotlib.pyplot as plt
