@@ -1,4 +1,4 @@
-<h1 align="center">LinCode Hackathon Submission</h1>
+<h1 align="center">Lin-Code Hackathon Submission</h1>
 
 ## Challenge-2 - TEAM INVAR
 
